@@ -1,0 +1,43 @@
+Sat Dec 23 07:24:30 2017: Ctrl + WIN + WIN was pressed.
+Sat Dec 23 07:24:30 2017: Ctrl + WIN + WIN was pressed.
+Sat Dec 23 07:24:30 2017: Ctrl was pressed.
+Sat Dec 23 07:24:31 2017: Ctrl was pressed.
+Sat Dec 23 07:24:31 2017: Ctrl + WIN was pressed.
+Sat Dec 23 07:25:46 2017: K was pressed.
+Sat Dec 23 07:25:46 2017: A was pressed.
+Sat Dec 23 07:25:47 2017: Backspace was pressed.
+Sat Dec 23 07:25:48 2017: Backspace was pressed.
+Sat Dec 23 07:25:48 2017: Alt was pressed.
+Sat Dec 23 07:25:48 2017: Alt was pressed.
+Sat Dec 23 07:25:49 2017: K was pressed.
+Sat Dec 23 07:25:49 2017: A was pressed.
+Sat Dec 23 07:25:49 2017: M was pressed.
+Sat Dec 23 07:25:49 2017: I was pressed.
+Sat Dec 23 07:25:50 2017: N was pressed.
+Sat Dec 23 07:25:50 2017: S was pressed.
+Sat Dec 23 07:25:50 2017: K was pressed.
+Sat Dec 23 07:25:51 2017: A was pressed.
+Sat Dec 23 07:25:51 2017: Y was pressed.
+Sat Dec 23 07:25:51 2017: A was pressed.
+Sat Dec 23 07:25:53 2017: / was pressed.
+Sat Dec 23 07:25:54 2017: L was pressed.
+Sat Dec 23 07:25:54 2017: Y was pressed.
+Sat Dec 23 07:25:54 2017: U was pressed.
+Sat Dec 23 07:25:55 2017: B was pressed.
+Sat Dec 23 07:25:55 2017: A was pressed.
+Sat Dec 23 07:25:55 2017: 1 was pressed.
+Sat Dec 23 07:26:00 2017: Num 6 was pressed.
+Sat Dec 23 07:26:00 2017: Num Del was pressed.
+Sat Dec 23 07:26:01 2017: . was pressed.
+Sat Dec 23 07:26:03 2017: Backspace was pressed.
+Sat Dec 23 07:26:03 2017: Backspace was pressed.
+Sat Dec 23 07:26:04 2017: . was pressed.
+Sat Dec 23 07:26:05 2017: L was pressed.
+Sat Dec 23 07:26:10 2017: Shift was pressed.
+Sat Dec 23 07:26:11 2017: Shift + D was pressed.
+Sat Dec 23 07:26:11 2017: E was pressed.
+Sat Dec 23 07:26:12 2017: F was pressed.
+Sat Dec 23 07:26:13 2017: A was pressed.
+Sat Dec 23 07:26:14 2017: U was pressed.
+Sat Dec 23 07:26:15 2017: L was pressed.
+Sat Dec 23 07:26:15 2017: T was pressed.
